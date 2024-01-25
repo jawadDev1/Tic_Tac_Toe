@@ -1,5 +1,5 @@
 {
-  "name": "AwesomeProject",
+  "name": "Tic Tac Toe",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-snackbar": "^2.6.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
